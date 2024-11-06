@@ -1,29 +1,27 @@
-# 👋 Hello! I'm Rizal Jalaludin
 
-**Junior Programmer** | **Aspiring Web Developer**
+Hello, World! 👋 I'm Rizal Jalaludin
+Welcome to my GitHub profile! I’m an intermediate-level junior back end developer with a passion for creating efficient and scalable solutions. With experience in HTML, CSS, PHP, JavaScript, and Laravel, I'm continuously improving my skills and aiming to become a well-rounded web developer.
 
----
+🔧 Tech Stack
+Languages: PHP, JavaScript, HTML, CSS
+Frameworks: Laravel
+Tools: Git, Composer, MySQL
+Currently Exploring: RESTful APIs, advanced PHP techniques, and deeper Laravel functionalities.
+🌱 Growth Mindset
+I'm all about progress. I’m dedicated to expanding my technical knowledge and tackling new challenges. Whether it's fine-tuning back end architectures or enhancing user interactions with clean, responsive front-end code, I strive to create meaningful, seamless web experiences.
 
-### 🌱 About Me
-- I'm a beginner programmer, currently diving into the world of web development.
-- Learning the essentials of **PHP**, focusing on **Laravel** as my main framework.
-- I aim to master **OOP**, **MVC**, and **API** integration along the way.
+📚 Currently Learning
+I'm diving deeper into API integrations, exploring MVC (Model-View-Controller) architecture for cleaner code management, and working with OOP principles in PHP to make my code more modular and efficient.
 
-### 🛠️ My Tech Stack
-- **Languages:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- **Framework:** ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+⚡ Fun Fact
+This is my new GitHub account! My previous one was unfortunately lost to the digital ether, but this fresh start is an exciting opportunity to document my journey from here on out! 🚀
 
-### 🌟 Goals
-- 📖 Currently studying the fundamentals of PHP .
-- 🚀 Aiming to become proficient in **backend development** with Laravel.
-- 🕒 Committed to learning **one hour a day** as I build my skills step-by-step.
-
-### 👀 Fun Facts
-- I’m constantly challenging myself to improve my coding skills with mini-projects and exercises.
-- I have a **background in informatics** and a knack for solving problems.
-- Passionate about creating clean, efficient code and building projects that make an impact!
-
----
+👀 A Few Things About Me
+💡 I believe that learning never stops in the world of tech, and I approach every project with curiosity and an eagerness to improve.
+🌐 I love problem-solving and am especially drawn to projects that can make a difference, big or small.
+🛠 Constantly working on mini-projects and open to collaborating on Laravel or PHP back end projects. Feel free to reach out!
+💌 Let's Connect!
+I'm open to connecting with like-minded developers, exchanging ideas, and contributing to exciting projects. Let's code, build, and grow together!
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizal-jalaludin-b90850270/)  
